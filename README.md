@@ -14,4 +14,3 @@ page: number|min:1
 filters[search]: string|min:3
 ```
 
-
